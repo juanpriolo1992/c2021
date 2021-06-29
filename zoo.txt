@@ -1,0 +1,8 @@
+circle packing
+index chart
+choroplet map
+cartogram
+streamgraph
+small multiples
+trellist
+etc...
