@@ -1,8 +1,16 @@
-circle packing
-index chart
-choroplet map
-cartogram
-streamgraph
-small multiples
-trellist
-etc...
+times-series
+statistical-data representation
+maps
+hierarchies 
+networks (could it be used for process design?, flow charts?)
+DNA 
+Protovis
+Index Charts
+Stacked Graphs
+Small Multiples
+SPLOM
+Parallel Coordinates of Automobile Data
+Choropleth Maps
+Graduated Symbol Maps
+Flow Maps
+Cartograms
