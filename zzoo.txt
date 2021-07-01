@@ -1,0 +1,15 @@
+times-series
+statistical-data representation
+hierarchies 
+networks
+DNA 
+Protovis
+Index Charts
+Stacked Graphs
+Small Multiples
+SPLOM
+Parallel Coordinates
+Choropleth Maps
+Graduated Symbol Maps
+Flow Maps
+Cartograms
